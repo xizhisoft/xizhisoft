@@ -36,7 +36,7 @@ A framework components Based on iview which is high quality Toolkit built on Vue
 
 - Basic skin bag
 
-- (free version does not support artificial technical services)
+- (free version does not support bug repair and artificial technical services)
 
 
 
@@ -71,6 +71,7 @@ A framework components Based on iview which is high quality Toolkit built on Vue
 - Compatible with echarts charts
 
 - Official professional technical support
+- Bug repair
 
 - Permanent access
 
